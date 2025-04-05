@@ -1,0 +1,50 @@
+@media(max-width:390px){
+    .card{
+        display: block;
+        height: 750px;
+        width: 350px;
+        margin: 0px 13px;
+    }
+
+    .imagem{
+      height: 342px;
+      width: 350px;
+    }
+
+    .imagem img{
+        width: 350px;
+        height: 342px;
+        border-radius: 8px 8px 0px 0px;
+    }
+  
+    .descricao{
+        
+        height: 408px;
+        width: 350px;
+        margin: 0px;
+        
+    }
+
+    .titulo-descricao{
+        width: 286px;
+        margin: 24px 32px;
+    }
+
+    .valor p{
+        width: 127px;
+        margin-left: 32px;
+    }
+
+    
+    .btn-paragrafo{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 32px;
+    }
+
+    .descricao .btn{
+        width: 31.39vh;
+        margin-top: 24px;
+    }
+
+}
