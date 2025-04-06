@@ -31,7 +31,7 @@ Neste desafio somente com HTML e CSS é um projeto perfeito para iniciantes que 
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://andredantasti.github.io/desafio-product-card/)]
+- Solution URL: [[Clique Aqui e veja o Projeto](https://andredantasti.github.io/desafio-product-card/)]
 
 ## My process
 
